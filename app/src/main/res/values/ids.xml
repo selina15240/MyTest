@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mainlogo3" type="id" />
+    <item name="me_Scroll" type="id" />
+    <item name="constraintLayout2" type="id" />
+    <item name="me_ScrollList" type="id" />
+    <item name="me_No" type="id" />
+    <item name="me_Yes" type="id" />
+    <item name="me_DateView" type="id" />
+    <item name="me_StartView" type="id" />
+    <item name="me_EndView" type="id" />
+    <item name="me_ReasonView" type="id" />
+    <item name="me_Date" type="id" />
+    <item name="me_Start" type="id" />
+    <item name="me_End" type="id" />
+    <item name="me_Reason" type="id" />
+    <item name="tvuserid" type="id" />
+    <item name="userid" type="id" />
+    <item name="tvpass" type="id" />
+    <item name="password" type="id" />
+    <item name="tvrepass" type="id" />
+    <item name="repassword" type="id" />
+    <item name="tvname" type="id" />
+    <item name="name" type="id" />
+    <item name="tvcompany" type="id" />
+    <item name="company" type="id" />
+    <item name="tvdepart" type="id" />
+    <item name="department" type="id" />
+    <item name="tvposition" type="id" />
+    <item name="tvtel" type="id" />
+    <item name="usertel" type="id" />
+    <item name="tvemail" type="id" />
+    <item name="email" type="id" />
+    <item name="btn_signup" type="id" />
+    <item name="btn_signcancel" type="id" />
+</resources>
